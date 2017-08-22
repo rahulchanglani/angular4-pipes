@@ -8,3 +8,12 @@ we can format text w/o changing property values format
 
 For multiple parameters in pipes it is separated by colons.
 
+datepipe, uppercasepipe, slicepipe
+
+Refer API section for more details
+
+Order of pipes is necessary. It parses from left to right
+
+
+
+Add shortenpipe in declarations in app modules just like components & directives
