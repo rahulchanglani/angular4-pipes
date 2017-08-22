@@ -17,3 +17,10 @@ Order of pipes is necessary. It parses from left to right
 
 
 Add shortenpipe in declarations in app modules just like components & directives
+
+To generate pipes
+ng generate pipe <name>
+ng g p <name>
+
+
+To update array or obj doesn't trigger it
