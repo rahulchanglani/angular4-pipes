@@ -1,0 +1,10 @@
+Pipes are used for output.. sync and async data
+
+Eg: transforming into
+uppercase, lowercase, capital
+
+
+we can format text w/o changing property values format
+
+For multiple parameters in pipes it is separated by colons.
+
