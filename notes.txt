@@ -24,3 +24,14 @@ ng g p <name>
 
 
 To update array or obj doesn't trigger it
+
+
+Angular doesn't rerender pipe with data as it is pure when value is changed
+
+Pipe is recalculated by adding pure false. 
+It recalculates on pipe args changes or anything on page changes to avoid performance issues
+
+
+async pipe recognizes that this is a promise & as a side note it will also work with observables. there it would subscribe automatically
+& after 2 secs it would simply recognize  that something changed/promise resolved/in case of observables, data was sent thru the subscription
+ & it will print this data to the screen
