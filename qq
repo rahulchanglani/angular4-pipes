@@ -1,0 +1,35 @@
+[33mcommit 819b78be384a35655791f761c899e67911174e47[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 14:15:29 2017 +0530
+
+    async pipes
+
+[33mcommit 888c73f1a70521bdffc6d3077bf8731f729fdebd[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 14:03:52 2017 +0530
+
+    filter pipe and pure/impure pipes
+
+[33mcommit d18e013dcaaf26d70c7822ab35dc44afeab5f4c7[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 13:47:47 2017 +0530
+
+    parametrized pipes
+
+[33mcommit 1776c7db7198c5406465f09f4c970e458f420bd6[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 13:45:57 2017 +0530
+
+    custom pipe
+
+[33mcommit 5244b52faa69c5c2723a2d6e6452d73e222b3e11[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 13:38:04 2017 +0530
+
+    pipes with parameters
+
+[33mcommit ddcc51838cc9df0dec41891a32407ee174d8ca69[m
+Author: Rahul Changlani <rahul.changlani@gmail.com>
+Date:   Tue Aug 22 11:58:04 2017 +0530
+
+    first commit
